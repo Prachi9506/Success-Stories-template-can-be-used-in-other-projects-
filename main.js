@@ -1,52 +1,52 @@
 // Success Stories Data
 const successStories = [
     {
-        name: "Stephen Hawking",
-        title: "Theoretical Physicist & Cosmologist",
-        preview: "Diagnosed with ALS at 21, Stephen Hawking became one of the most brilliant minds in physics, revolutionizing our understanding of black holes and the universe.",
-        achievement: "Groundbreaking Physics Research",
-        fullStory: "Stephen Hawking was diagnosed with amyotrophic lateral sclerosis (ALS) at the age of 21 and given just two years to live. Despite this devastating diagnosis, he went on to live for 55 more years and became one of the most celebrated physicists of our time. His work on black holes, particularly Hawking radiation, revolutionized our understanding of the universe. He authored the bestselling book 'A Brief History of Time' and held the prestigious Lucasian Chair of Mathematics at Cambridge University for 30 years. Hawking's determination to continue his research despite his physical limitations inspired millions worldwide and proved that the human mind knows no boundaries.",
-        initials: "SH"
+        name: "Priya Mehta (Class of 2019, B.Tech CSE)",
+        title: "Software Engineer at Google",
+        preview: "From coding contests to Google – Priya turned her passion into a global career.",
+        achievement: "Secured role at Google after internship",
+        fullStory: "Priya always had a passion for problem-solving and coding. During her time at college, she actively participated in hackathons and coding contests, which helped her sharpen her skills. With persistence and guidance from mentors, she landed an internship at Google and later converted it into a full-time role.",
+        initials: "PM"
     },
     {
-        name: "Helen Keller",
-        title: "Author, Activist & Lecturer",
-        preview: "Deaf and blind from infancy, Helen Keller became the first deafblind person to earn a Bachelor of Arts degree and a powerful advocate for disability rights.",
-        achievement: "First Deafblind College Graduate",
-        fullStory: "Helen Keller lost her sight and hearing at 19 months old due to illness. With the help of her teacher Anne Sullivan, she learned to communicate and went on to become the first deafblind person to earn a Bachelor of Arts degree from Radcliffe College. She became a prolific author, writing 14 books and numerous articles. Keller was also a fierce advocate for people with disabilities, women's suffrage, and social justice. She traveled to over 40 countries, giving lectures and inspiring people worldwide. Her autobiography 'The Story of My Life' remains a classic, and her legacy continues to inspire people to overcome seemingly impossible obstacles.",
-        initials: "HK"
+        name: "Rohan Sharma (Class of 2018, B.Tech IT)",
+        title: "Full Stack Developer at Microsoft",
+        preview: "Rohan’s open-source contributions paved the way to Microsoft.",
+        achievement: "Key contributor to open-source projects",
+        fullStory: "Rohan built multiple open-source projects during his time in college, gaining recognition in the developer community. His GitHub profile stood out, leading to internship opportunities and ultimately a full-time offer from Microsoft. Today, he works on large-scale distributed systems that power millions of users worldwide.",
+        initials: "RS"
     },
     {
-        name: "Nick Vujicic",
-        title: "Motivational Speaker & Entrepreneur",
-        preview: "Born without arms and legs, Nick Vujicic has become a world-renowned motivational speaker, inspiring millions with his message of hope and determination.",
-        achievement: "Global Inspirational Leader",
-        fullStory: "Nick Vujicic was born with tetra-amelia syndrome, a rare disorder characterized by the absence of arms and legs. Despite facing severe bullying and depression in his youth, he found purpose in inspiring others. He founded the non-profit organization Life Without Limbs and has spoken to over 6 million people across 57 countries. Nick has written several bestselling books, including 'Life Without Limits' and 'Unstoppable.' He's also a successful entrepreneur, husband, and father of four children. His story demonstrates that physical limitations cannot limit the human spirit's capacity for achievement and impact.",
-        initials: "NV"
+        name: "Ananya Gupta (Class of 2020, B.Tech CSE)",
+        title: "Software Developer at Amazon",
+        preview: "From coding club president to building scalable e-commerce systems.",
+        achievement: "Leadership in campus coding club",
+        fullStory: "Ananya served as the president of her college coding club, where she mentored juniors and organized hackathons. Her problem-solving skills and leadership helped her crack Amazon’s interviews. She now works on optimizing recommendation systems for e-commerce customers.",
+        initials: "AG"
     },
     {
-        name: "Temple Grandin",
-        title: "Animal Scientist & Autism Advocate",
-        preview: "Living with autism, Temple Grandin revolutionized animal welfare in agriculture and became a leading advocate for autism awareness and acceptance.",
-        achievement: "Revolutionary Animal Welfare Expert",
-        fullStory: "Temple Grandin was diagnosed with autism at a time when little was understood about the condition. She channeled her unique way of thinking into groundbreaking work in animal science. Her designs for livestock handling facilities are used worldwide and have significantly improved animal welfare in the agriculture industry. She holds a PhD in Animal Science and is a professor at Colorado State University. Grandin has written numerous books about autism and animal behavior, including 'Thinking in Pictures.' Her life story was depicted in an Emmy-winning HBO biographical film. She continues to advocate for both animal welfare and autism acceptance, showing how neurodiversity can be a strength.",
-        initials: "TG"
+        name: "Arjun Verma (Class of 2017, B.Tech CSE)",
+        title: "AI Research Engineer at NVIDIA",
+        preview: "Arjun turned his love for machine learning into groundbreaking AI research.",
+        achievement: "Research in AI & Deep Learning",
+        fullStory: "Arjun was fascinated by AI during his final year project on computer vision. He published research papers in reputed journals and later joined NVIDIA. Today, he contributes to developing AI frameworks that are used by developers and researchers globally.",
+        initials: "AV"
     },
     {
-        name: "Marla Runyan",
-        title: "Paralympic & Olympic Athlete",
-        preview: "Legally blind due to Stargardt's disease, Marla Runyan became the first legally blind athlete to compete in the Olympics, breaking barriers in track and field.",
-        achievement: "First Blind Olympic Competitor",
-        fullStory: "Marla Runyan was diagnosed with Stargardt's disease at age 9, which gradually took away most of her vision. Rather than letting this stop her athletic dreams, she excelled in track and field, becoming a Paralympic champion in the heptathlon and long jump. In 2000, she made history by becoming the first legally blind athlete to compete in the Olympics, finishing 8th in the 1500 meters. She also competed in the 2004 Olympics and won multiple Paralympic gold medals. Beyond athletics, Runyan earned a master's degree in education and has worked as a teacher. Her achievements have opened doors for other visually impaired athletes and challenged perceptions about what's possible.",
-        initials: "MR"
+        name: "Simran Kaur (Class of 2021, B.Tech CSE)",
+        title: "Software Engineer at Adobe",
+        preview: "Internship projects at Adobe led Simran to a full-time offer.",
+        achievement: "Internship converted to full-time",
+        fullStory: "Simran secured an internship at Adobe during her final year, where she worked on enhancing collaborative design tools. Her performance impressed the team, and she received a full-time offer. She now contributes to Adobe’s cloud-based design software used by millions.",
+        initials: "SK"
     },
     {
-        name: "John Nash",
-        title: "Nobel Prize-Winning Mathematician",
-        preview: "Despite battling schizophrenia, John Nash made groundbreaking contributions to mathematics and economics, earning him the Nobel Prize in Economic Sciences.",
-        achievement: "Nobel Prize Winner",
-        fullStory: "John Nash was a brilliant mathematician who made fundamental contributions to game theory, differential geometry, and partial differential equations. However, his career was interrupted by a decades-long struggle with schizophrenia, which began in his late twenties. Despite the challenges of his mental illness, Nash continued his mathematical work and eventually recovered enough to return to academic life. In 1994, he was awarded the Nobel Prize in Economic Sciences for his pioneering work in game theory. His life story was depicted in the Academy Award-winning film 'A Beautiful Mind.' Nash's journey demonstrates the possibility of recovery and continued achievement even while living with serious mental illness.",
-        initials: "JN"
+        name: "Kunal Bhatia (Class of 2016, B.Tech IT)",
+        title: "Founder of CodeCraft Solutions",
+        preview: "Kunal left his MNC job to launch a thriving software startup.",
+        achievement: "Built a successful SaaS startup",
+        fullStory: "Kunal started his career at a multinational software company but always dreamed of entrepreneurship. In 2019, he founded CodeCraft Solutions, a SaaS company providing workflow automation tools for small businesses. Today, the startup serves clients across three continents.",
+        initials: "KB"
     }
 ];
 
