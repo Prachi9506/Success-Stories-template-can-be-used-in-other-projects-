@@ -1,7 +1,7 @@
 // Success Stories Data
 const successStories = [
     {
-        name: "Priya Mehta (Class of 2019, B.Tech CSE)",
+        name: "Prachi Sharma (Class of 2019, B.Tech CSE)",
         title: "Software Engineer at Google",
         preview: "From coding contests to Google – Priya turned her passion into a global career.",
         achievement: "Secured role at Google after internship",
