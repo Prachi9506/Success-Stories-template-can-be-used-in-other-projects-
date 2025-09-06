@@ -1,4 +1,4 @@
-// Success Stories Data
+ // Success Stories Data
 const successStories = [
     {
         name: "Prachi Sharma (Class of 2019, B.Tech CSE)",
